@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project
+pywhatkit_dbs.txt
+wednesday_notes.txt
+jarvis_notes.txt
+
+# Wheels
+*.whl
