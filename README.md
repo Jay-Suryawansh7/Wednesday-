@@ -1,6 +1,6 @@
 # Wednesday — Jay's Desktop Voice Assistant 🖤
 
-<img src="https://giffiles.alphacoders.com/212/212508.gif" alt="">
+<img src="https://i.pinimg.com/736x/b7/61/29/b76129d9062e30fe4416de7981e8b319.jpg" alt="">
 
 > *"I am Wednesday. Your personal AI assistant."*
 
